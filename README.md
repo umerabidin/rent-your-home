@@ -7,6 +7,3 @@
 	<img src="./images/map.gif" alt="Results view" width="250">
 </p>
 
-## Getting Started
-
-
